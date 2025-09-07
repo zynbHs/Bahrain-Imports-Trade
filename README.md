@@ -13,4 +13,4 @@ The dashboard highlights overall import performance, key commodities, major trad
 - GitHub – Project sharing and documentation
 
 ## Dashboard Preview
-
+![Dashboard Preview](./Dashboard/dashboard.PNG)
